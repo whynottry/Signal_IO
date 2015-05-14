@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Single_IO</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="sampleRate">
+        <item>8000</item>
+        <item>11025</item>
+        <item>22050</item>
+        <item>44100</item>
+    </string-array>
+</resources>
